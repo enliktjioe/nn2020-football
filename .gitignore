@@ -131,3 +131,7 @@ dmypy.json
 EPL_LaLiga.csv
 
 datasets/database.sqlite
+
+datasets/EPL.csv
+
+datasets/LaLiga.csv
