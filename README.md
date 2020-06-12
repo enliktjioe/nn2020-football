@@ -6,6 +6,11 @@
 - Hei Chun Shum
 - Isaac Buo
 
+## Label Encoding (Our Target Variable)
+### FTR (Full Time Result)
+- 0 = A (Away team wins)
+- 1 = D (Draw)
+- 2 = H (Home team wins)
 
 ## Documentation
 ### NN Checkpoint 1
