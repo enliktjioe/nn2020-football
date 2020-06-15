@@ -3,7 +3,7 @@
 ## Team Members
 - Enlik -
 - Farhan Syakir
-- Hei Chun Shum
+- Roland Hei Chun Shum
 - Isaac Buo
 
 ## General Information
